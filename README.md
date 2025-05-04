@@ -25,7 +25,7 @@ _(Insert screenshots or link to deployed demo if available)_
 ## 🔧 Installation & Setup
 
 1. Clone the repo  
-   git clone https://github.com/your-username/anonymous-session-chat.git  
+   git clone https://github.com/DARK7177/Chats_Keypair_workspace.git  
    cd anonymous-session-chat
 
 2. Backend  
